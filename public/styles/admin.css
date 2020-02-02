@@ -1,0 +1,41 @@
+body{
+    background: fixed;
+    background-image: radial-gradient(red, yellow, black);
+    height: 100vh;
+}
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(173, 173, 173);
+    margin-top: 0;
+}
+
+.container{
+    border: 1px solid rgb(129, 156, 187);
+    padding: 0;
+    text-align: center;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+label{
+    text-align: right;
+}
+
+.hidden{
+    display: none;
+}
+
+button{
+    margin: auto;
+}
+
+.messageListItem{
+    background-color: beige;
+    margin: 10px;
+    border: 1px solid brown;
+}
